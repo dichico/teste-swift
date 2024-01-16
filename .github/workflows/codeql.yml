@@ -71,7 +71,7 @@ jobs:
         xcodebuild clean build \
         -project testeorbit.xcodeproj \
         -scheme testeorbit \
-        -destination 'platform=iOS Simulator,name=iPhone 15,OS=17.2'
+        -destination 'name=iPhone15ProMax,OS=17.2'
 
 
     # ℹ️ Command-line programs to run using the OS shell.
