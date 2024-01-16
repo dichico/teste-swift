@@ -69,8 +69,8 @@ jobs:
     - name: Build
       run: |
         xcodebuild clean build \
-        -project teste-orbit.xcodeproj \
-        -scheme teste-orbit \
+        -project testeorbit.xcodeproj \
+        -scheme testeorbit \
         -destination 'platform=iOS Simulator,name=iPhone 15,OS=17.2'
 
 
