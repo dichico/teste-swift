@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  teste-orbit
+//  testeorbit
 //
 //  Created by Diogo Francisco Costa on 16/01/2024.
 //
@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello and welcome to Orbit Actions!")
+            Text("Hello, world!")
         }
         .padding()
     }

@@ -7,22 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A843A03E2B569F8D0070B465 /* teste_orbitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A843A03D2B569F8D0070B465 /* teste_orbitApp.swift */; };
-		A843A0402B569F8D0070B465 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A843A03F2B569F8D0070B465 /* ContentView.swift */; };
-		A843A0422B569F8E0070B465 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A843A0412B569F8E0070B465 /* Assets.xcassets */; };
-		A843A0452B569F8E0070B465 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A843A0442B569F8E0070B465 /* Preview Assets.xcassets */; };
+		A843A0582B56BB3C0070B465 /* testeorbitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A843A0572B56BB3C0070B465 /* testeorbitApp.swift */; };
+		A843A05A2B56BB3C0070B465 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A843A0592B56BB3C0070B465 /* ContentView.swift */; };
+		A843A05C2B56BB3D0070B465 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A843A05B2B56BB3D0070B465 /* Assets.xcassets */; };
+		A843A05F2B56BB3D0070B465 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A843A05E2B56BB3D0070B465 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A843A03A2B569F8D0070B465 /* teste-orbit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "teste-orbit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A843A03D2B569F8D0070B465 /* teste_orbitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = teste_orbitApp.swift; sourceTree = "<group>"; };
-		A843A03F2B569F8D0070B465 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		A843A0412B569F8E0070B465 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A843A0442B569F8E0070B465 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A843A0542B56BB3C0070B465 /* testeorbit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testeorbit.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A843A0572B56BB3C0070B465 /* testeorbitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testeorbitApp.swift; sourceTree = "<group>"; };
+		A843A0592B56BB3C0070B465 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A843A05B2B56BB3D0070B465 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A843A05E2B56BB3D0070B465 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A843A0372B569F8D0070B465 /* Frameworks */ = {
+		A843A0512B56BB3C0070B465 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -32,37 +32,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A843A0312B569F8D0070B465 = {
+		A843A04B2B56BB3C0070B465 = {
 			isa = PBXGroup;
 			children = (
-				A843A03C2B569F8D0070B465 /* teste-orbit */,
-				A843A03B2B569F8D0070B465 /* Products */,
+				A843A0562B56BB3C0070B465 /* testeorbit */,
+				A843A0552B56BB3C0070B465 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A843A03B2B569F8D0070B465 /* Products */ = {
+		A843A0552B56BB3C0070B465 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A843A03A2B569F8D0070B465 /* teste-orbit.app */,
+				A843A0542B56BB3C0070B465 /* testeorbit.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A843A03C2B569F8D0070B465 /* teste-orbit */ = {
+		A843A0562B56BB3C0070B465 /* testeorbit */ = {
 			isa = PBXGroup;
 			children = (
-				A843A03D2B569F8D0070B465 /* teste_orbitApp.swift */,
-				A843A03F2B569F8D0070B465 /* ContentView.swift */,
-				A843A0412B569F8E0070B465 /* Assets.xcassets */,
-				A843A0432B569F8E0070B465 /* Preview Content */,
+				A843A0572B56BB3C0070B465 /* testeorbitApp.swift */,
+				A843A0592B56BB3C0070B465 /* ContentView.swift */,
+				A843A05B2B56BB3D0070B465 /* Assets.xcassets */,
+				A843A05D2B56BB3D0070B465 /* Preview Content */,
 			);
-			path = "teste-orbit";
+			path = testeorbit;
 			sourceTree = "<group>";
 		};
-		A843A0432B569F8E0070B465 /* Preview Content */ = {
+		A843A05D2B56BB3D0070B465 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				A843A0442B569F8E0070B465 /* Preview Assets.xcassets */,
+				A843A05E2B56BB3D0070B465 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -70,39 +70,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A843A0392B569F8D0070B465 /* teste-orbit */ = {
+		A843A0532B56BB3C0070B465 /* testeorbit */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A843A0482B569F8E0070B465 /* Build configuration list for PBXNativeTarget "teste-orbit" */;
+			buildConfigurationList = A843A0622B56BB3D0070B465 /* Build configuration list for PBXNativeTarget "testeorbit" */;
 			buildPhases = (
-				A843A0362B569F8D0070B465 /* Sources */,
-				A843A0372B569F8D0070B465 /* Frameworks */,
-				A843A0382B569F8D0070B465 /* Resources */,
+				A843A0502B56BB3C0070B465 /* Sources */,
+				A843A0512B56BB3C0070B465 /* Frameworks */,
+				A843A0522B56BB3C0070B465 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "teste-orbit";
-			productName = "teste-orbit";
-			productReference = A843A03A2B569F8D0070B465 /* teste-orbit.app */;
+			name = testeorbit;
+			productName = testeorbit;
+			productReference = A843A0542B56BB3C0070B465 /* testeorbit.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A843A0322B569F8D0070B465 /* Project object */ = {
+		A843A04C2B56BB3C0070B465 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1520;
 				LastUpgradeCheck = 1520;
 				TargetAttributes = {
-					A843A0392B569F8D0070B465 = {
+					A843A0532B56BB3C0070B465 = {
 						CreatedOnToolsVersion = 15.2;
 					};
 				};
 			};
-			buildConfigurationList = A843A0352B569F8D0070B465 /* Build configuration list for PBXProject "teste-orbit" */;
+			buildConfigurationList = A843A04F2B56BB3C0070B465 /* Build configuration list for PBXProject "testeorbit" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,42 +110,42 @@
 				en,
 				Base,
 			);
-			mainGroup = A843A0312B569F8D0070B465;
-			productRefGroup = A843A03B2B569F8D0070B465 /* Products */;
+			mainGroup = A843A04B2B56BB3C0070B465;
+			productRefGroup = A843A0552B56BB3C0070B465 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A843A0392B569F8D0070B465 /* teste-orbit */,
+				A843A0532B56BB3C0070B465 /* testeorbit */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A843A0382B569F8D0070B465 /* Resources */ = {
+		A843A0522B56BB3C0070B465 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A843A0452B569F8E0070B465 /* Preview Assets.xcassets in Resources */,
-				A843A0422B569F8E0070B465 /* Assets.xcassets in Resources */,
+				A843A05F2B56BB3D0070B465 /* Preview Assets.xcassets in Resources */,
+				A843A05C2B56BB3D0070B465 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A843A0362B569F8D0070B465 /* Sources */ = {
+		A843A0502B56BB3C0070B465 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A843A0402B569F8D0070B465 /* ContentView.swift in Sources */,
-				A843A03E2B569F8D0070B465 /* teste_orbitApp.swift in Sources */,
+				A843A05A2B56BB3C0070B465 /* ContentView.swift in Sources */,
+				A843A0582B56BB3C0070B465 /* testeorbitApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		A843A0462B569F8E0070B465 /* Debug */ = {
+		A843A0602B56BB3D0070B465 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -208,7 +208,7 @@
 			};
 			name = Debug;
 		};
-		A843A0472B569F8E0070B465 /* Release */ = {
+		A843A0612B56BB3D0070B465 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -264,84 +264,96 @@
 			};
 			name = Release;
 		};
-		A843A0492B569F8E0070B465 /* Debug */ = {
+		A843A0632B56BB3D0070B465 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"teste-orbit/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"testeorbit/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Teste Orbit";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "bmwgroup.teste-orbit";
+				PRODUCT_BUNDLE_IDENTIFIER = bmwgroup.testeorbit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
-		A843A04A2B569F8E0070B465 /* Release */ = {
+		A843A0642B56BB3D0070B465 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"teste-orbit/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"testeorbit/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Teste Orbit";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "bmwgroup.teste-orbit";
+				PRODUCT_BUNDLE_IDENTIFIER = bmwgroup.testeorbit;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A843A0352B569F8D0070B465 /* Build configuration list for PBXProject "teste-orbit" */ = {
+		A843A04F2B56BB3C0070B465 /* Build configuration list for PBXProject "testeorbit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A843A0462B569F8E0070B465 /* Debug */,
-				A843A0472B569F8E0070B465 /* Release */,
+				A843A0602B56BB3D0070B465 /* Debug */,
+				A843A0612B56BB3D0070B465 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A843A0482B569F8E0070B465 /* Build configuration list for PBXNativeTarget "teste-orbit" */ = {
+		A843A0622B56BB3D0070B465 /* Build configuration list for PBXNativeTarget "testeorbit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A843A0492B569F8E0070B465 /* Debug */,
-				A843A04A2B569F8E0070B465 /* Release */,
+				A843A0632B56BB3D0070B465 /* Debug */,
+				A843A0642B56BB3D0070B465 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A843A0322B569F8D0070B465 /* Project object */;
+	rootObject = A843A04C2B56BB3C0070B465 /* Project object */;
 }

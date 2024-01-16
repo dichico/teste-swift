@@ -1,6 +1,6 @@
 //
-//  teste_orbitApp.swift
-//  teste-orbit
+//  testeorbitApp.swift
+//  testeorbit
 //
 //  Created by Diogo Francisco Costa on 16/01/2024.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct teste_orbitApp: App {
+struct testeorbitApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
